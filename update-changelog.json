@@ -1,9 +1,11 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 1,
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
   "url": "https://github.com/ssd151/TaskViewerApp/blob/master/release/app-release.apk?raw=true",
   "releaseNotes": [
-    "- First evolution",
-    "- Bug fixes Plus"
+    "- New Notification Added",
+    "- Reduce data usage",
+    "-Faster execution",
+    "-Just download the new one and Install, Dont have to Unstill the previous one. It will update automatically."
   ]
 }
