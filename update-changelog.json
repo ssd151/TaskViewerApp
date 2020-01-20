@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.4",
-  "latestVersionCode": 5,
+  "latestVersion": "1.5",
+  "latestVersionCode": 6,
   "url": "https://github.com/ssd151/TaskViewerApp/blob/master/release/app-release.apk?raw=true",
   "releaseNotes": [
-    "-Ungent Update, Service may stop if you don't upgrate.",
-    "-Please share more and more so that we could continue serve you.",
-    "-Advance, Happy New Year.",
-    "-Just download the new one and Install, Dont have to Unstill the previous one. It will update automatically."
+    "-অর্থ প্রদানের সমস্যা সমাধান হয়েছে।",
+    "-কিউআর কোড পেমেন্ট যুক্ত হয়েছে যেখানে কোনও ইউপিআই অ্যাপ উপস্থিত নেই।",
+    "-অর্থ প্রদানের পরে অ্যাপটিকে মুছতে হবে না, স্বয়ংক্রিয়ভাবে বিজ্ঞাপনের ভিউ পুনরায় চালু করতে হবে।",
+    "-কেবলমাত্র নতুনটি ডাউনলোড করুন এবং ইনস্টল করুন, আগেরটি আনস্টেল করতে হবে না। এটি স্বয়ংক্রিয়ভাবে আপডেট হবে।"
   ]
 }
